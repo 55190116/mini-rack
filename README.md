@@ -437,6 +437,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | thzinc | 2026 | [Home lab mini rack in a flight case](https://github.com/geerlingguy/mini-rack/issues/305) |
 | CavAdventureCo | 2026 | [The Micro Rack](https://github.com/geerlingguy/mini-rack/issues/306) |
 | mzellho | 2026 | [KUB62: DIY Wooden Rack](https://github.com/geerlingguy/mini-rack/issues/307) |
+| MarkUnlocked | 2026 | [Frankensteined Mini-Rack](https://github.com/geerlingguy/mini-rack/issues/308) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
