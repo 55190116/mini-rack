@@ -91,6 +91,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [Rack Magic Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch) | 3U, 6U | open design, black or grey |
 | [Stalflex Wall Mount Network Rack](https://www.amazon.co.uk/dp/B0D9RT6MQ1) | 1U, 2U, 3U, 4U | open design, wall-mountable |
 | [Triton RKA 10/19 Rack](https://triton-racks.com/products/data-cabinets/wall-mounted-cabinets/rka-10-19) | 10U | only 10 inch rack available with a depth > 30cm |
+| [Waveshare HomeRack 8U](https://www.waveshare.com/homerack-8u-basic-kit.htm) | 8U | Aluminum alloy with Mac Pro-style feet and polished handles |
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
