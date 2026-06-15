@@ -444,6 +444,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | delaware | 2026 | [Oak Mini Rack 8HE](https://github.com/geerlingguy/mini-rack/issues/311) |
 | martinhauke | 2026 | [4U Print in Place Rack](https://github.com/geerlingguy/mini-rack/issues/266) |
 | geerlingguy | 2026 | [DIY Atomic Clock mini rack](https://github.com/geerlingguy/mini-rack/issues/315) |
+| RawBoomer | 2026 | [8U deskpi ITX board/GPU](https://github.com/geerlingguy/mini-rack/issues/320) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
