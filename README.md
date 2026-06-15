@@ -133,6 +133,7 @@ UPSes, or Uninterruptable Power Supplies, offer protection against brownouts or 
   - [APC Slim BV400XU](https://amzn.to/3ZO1QbV) (requires 2U of height, may be too wide for some racks)
   - [Goal Zero Sherpa 100 AC](https://amzn.to/40tUb3r) (requires USB-C PD 60W+ input and rack shelf)
   - [Tripp Lite 600VA 300W UPS - BC600R](https://amzn.to/3WnvQdg) (fits within the bottom of a RackMate, see [this issue](https://github.com/geerlingguy/mini-rack/issues/1#issuecomment-2599063696))
+  - [Vertiv Liebert PowerUPS 100 Lithium Ion UPS](https://amzn.to/4vN9wsz) (rated for 350VA/210W, fits in bottom of some mini racks, see [this comment](https://github.com/geerlingguy/mini-rack/issues/1#issuecomment-4704017121))
 
 Ongoing discussions:
 
